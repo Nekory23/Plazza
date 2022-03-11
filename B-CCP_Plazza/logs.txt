@@ -1,0 +1,48 @@
+Sun May 16 21:33:26 2021
+
+	regina XXL x30
+
+Sun May 16 21:44:53 2021
+
+	regina XL x5
+
+Sun May 16 21:57:31 2021
+
+	regina XXL x4
+
+Sun May 16 22:52:18 2021
+
+	regina XL x5
+
+Sun May 16 22:52:35 2021
+
+	regina XL x1
+	regina XL x5
+
+Sun May 16 22:52:49 2021
+
+	regina XXL x30
+	regina XL x1
+	regina XL x5
+
+Sun May 16 22:53:03 2021
+
+	regina XXL x40
+	regina XXL x30
+	regina XL x1
+	regina XL x5
+
+Sun May 16 22:53:17 2021
+
+	regina XXL x40
+	regina XXL x40
+	regina XXL x30
+	regina XL x1
+	regina XL x5
+
+Sun May 16 22:54:07 2021
+
+	 Sun May 16 23:14:17 2021
+
+	regina XXL x30
+
