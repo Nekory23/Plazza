@@ -1,5 +1,5 @@
 # Plazza
-{EPITECH} | Second year | Functionnal programming
+{EPITECH} | Second year | Concurrent programming
 
 The purpose of this project is to make you realize a simulation of a pizzeria, which is composed of the reception that accepts new commands, of several kitchens, themselves with several cooks, themselves cooking several pizzas.
 
